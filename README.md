@@ -6,6 +6,13 @@ It showcases how cloud computing can be leveraged to build **scalable, fault-tol
 
 ---
 
+## 🏆 Achievements  
+- 🥇 **Achieved First Position** in the Cloud Computing Competition during our college project showcase.  
+- 📜 **Certificate:**  
+  ![Certificate of Achievement](https://github.com/ArijitDutta96395/College_Cloud_Project/blob/main/1st.jpg)  
+
+---
+
 ## 👥 Team Members  
 **Team Leader:** Arijit Dutta (22/ECE/54)  
 **Members:**  
